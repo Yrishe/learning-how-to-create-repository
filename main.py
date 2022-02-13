@@ -1,9 +1,6 @@
 import random
 
-display_messages = [
-    'Seja feliz!',
-    'Fique tranquilo, vai acabar tudo bem!'
-]
+from .messages import display_messages
 
 while True:
     resposta = input('Deseja um conselho? S/N: ')
