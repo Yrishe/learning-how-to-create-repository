@@ -4,7 +4,7 @@ import random
 import time
 
 
-print('starting project!')
+print('starting project 3..2..1..')
 time.sleep(3)
 
 while True:
